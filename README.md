@@ -19,4 +19,3 @@ Quantitative Modeling Analyst III @ Zions Bancorporation <br>
 
 ### Projects
 * Personal projects related to [credit risk](https://github.com/BlakePeterman/credit-risk)
-* More to come

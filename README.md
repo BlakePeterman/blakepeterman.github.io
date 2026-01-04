@@ -1,6 +1,7 @@
 # Quantitative Analyst/Statistician
 
-**Technical Skills: R, Python, SQL**
+**Technical Skills: R, Python, SQL**<br>
+**Interests: credit risk, causal inference, econometrics**
 
 ### Education
 

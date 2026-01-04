@@ -1,5 +1,7 @@
 # Quantitative Analyst/Statistician
 
+**Technical Skills: R, Python, SQL**
+
 ### Education
 
 * Statistics M.S.                                                *Texas A&M University* 
